@@ -21,4 +21,4 @@ psycopg2==2.9.3
 4. Create Telegram Bot via Botfather and get its token;
 5. Set this token into the source code and have fun!
 
-Or use some Cloud Hosting Solutions like Heroku or others. For instance, the bot perfectly works on Heroku.
+Or use some Cloud Hosting Solutions like Heroku or others. For instance, the bot perfectly works on Heroku (procfile and the article how to tune are included in the files and the source code).
